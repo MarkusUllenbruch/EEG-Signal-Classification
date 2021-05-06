@@ -26,4 +26,4 @@ Based on the brain activity signals, we want to predict if the humand has their 
 
 
 
-
+.
