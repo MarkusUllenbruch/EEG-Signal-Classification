@@ -22,7 +22,7 @@ Based on the brain activity signals, we want to predict if the humand has their 
 
 <img src="Plots/acc.png" width="400">
 
-<img src="Plots/cm.png" width="400">
+<img src="Plots/cm_.png" width="400">
 
 
 
