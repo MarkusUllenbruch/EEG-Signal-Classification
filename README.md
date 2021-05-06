@@ -17,7 +17,12 @@ We have 14 channels of EEG time-series signals of the brain activity. In the fol
 Based on the brain activity signals, we want to predict if the humand has their eyes shut or open at the moment.
 
 ## Results
+We are able to distinguish if the eyes are closed or shut based on the 14 EEG channel signals! The metrics for the 2 class classification problem for our model are:
+Accuracy: 96.7%
+Precision: 95.8%
+Recall: 96.9%
 
 <img src="Plots/loss.png" width="400"> <img src="Plots/acc.png" width="400">
 
 <img src="Plots/cm_.png" width="600">
+
