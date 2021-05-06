@@ -4,4 +4,10 @@
 
 <img src="Plots/F3.png" width="700">
 
-<img src="Plots/F4.png" width="360">
+<img src="Plots/F4.png" width="700">
+
+<img src="Plots/FC5.png" width="700">
+
+<img src="Plots/P8.png" width="700">
+
+
