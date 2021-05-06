@@ -1,5 +1,5 @@
 # EEG-Signal-Classification
- 8 Channel EEG Time-Series Classification whether eyes of a human are shut or open.
+ 14 Channel EEG Time-Series Classification whether eyes of a human are shut or open.
  
 ## Data
 We have 14 channels of EEG time-series signals of the brain activity. In the following we have 4 channels plotted and the last plot is the label as signal, whether the human has their eyes shut (0) or open (1):
