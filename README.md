@@ -18,11 +18,20 @@ Based on the brain activity signals, we want to predict if the humand has their 
 
 ## Results
 We are able to distinguish if the eyes are closed or shut based on the 14 EEG channel signals! The metrics for the 2 class classification problem for our model are:
-- Accuracy: 96.7%
-- Precision: 95.8%
-- Recall: 96.9%
+- Accuracy: 96.1%
+- Precision: 95.0%
+- Recall: 96.6%
 
-<img src="Plots/loss.png" width="400"> <img src="Plots/accBETTER.png" width="400">
+<img src="Plots/loss.png" width="400"> <img src="Plots/acc.png" width="400">
 
-<img src="Plots/cm_.png" width="600"> <img src="Plots/cmBETTER.png" width="600">
+<img src="Plots/cm_.png" width="600">
+
+## Better Results through Feature Engineering
+With calculating a rolling mean of every feature and dropping features with low correlation we get the better results:
+
+- Accuracy: 99.9%
+- Precision: 99.9%
+- Recall: 99.8%
+
+<img src="Plots/cmBETTER.png" width="600">
 
