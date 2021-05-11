@@ -24,5 +24,5 @@ We are able to distinguish if the eyes are closed or shut based on the 14 EEG ch
 
 <img src="Plots/loss.png" width="400"> <img src="Plots/acc.png" width="400">
 
-<img src="Plots/cm_.png" width="600">
+<img src="Plots/cm_.png" width="600"> <img src="Plots/cm_BETTER.png" width="600">
 
